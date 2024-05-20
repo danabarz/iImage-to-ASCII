@@ -4,8 +4,6 @@ package errors;
  * An exception thrown when an error occurs while attempting to add elements.
  * This exception is typically thrown in situations where an attempt to add elements
  * fails due to incorrect format or other related issues.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class AddException extends Exception {
 

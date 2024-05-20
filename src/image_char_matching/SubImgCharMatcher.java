@@ -6,8 +6,6 @@ import java.util.TreeSet;
 /**
  * A class for matching characters to image brightness values.
  * This class provides functionality to match characters from a charset to image brightness values.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class SubImgCharMatcher {
     /**

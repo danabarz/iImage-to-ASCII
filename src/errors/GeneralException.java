@@ -3,8 +3,6 @@ package errors;
 /**
  * An exception representing a general error condition.
  * This exception is used when a generic error occurs and no specific exception type is appropriate.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class GeneralException extends Exception {
 

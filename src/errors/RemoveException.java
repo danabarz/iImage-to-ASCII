@@ -3,8 +3,6 @@ package errors;
 /**
  * An exception representing an error related to removal operations.
  * This exception is used to indicate errors that occur during removal operations.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class RemoveException extends Exception {
 

@@ -3,8 +3,6 @@ package errors;
 /**
  * An exception representing an error related to image processing.
  * This exception is used to indicate errors that occur during image handling or processing operations.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class ImageException extends Exception {
 

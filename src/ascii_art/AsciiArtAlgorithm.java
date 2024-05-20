@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * AsciiArtAlgorithm class is responsible for converting an image into ASCII art representation.
  * It divides the input image into sub images, matches each sub-image to a corresponding character based on
  * brightness, and generates a 2D array of characters representing the ASCII art.
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class AsciiArtAlgorithm {
     private final PaddingImage paddingImage;

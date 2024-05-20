@@ -10,8 +10,6 @@ import java.util.ArrayList;
  * transforms, which operate more efficiently on images with dimensions that are powers of two.
  * Additionally, the class offers methods to create sub-images from the padded image. These sub-images
  * can be useful for dividing the image into smaller parts for parallel processing or other operations.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 
 public class PaddingImage {

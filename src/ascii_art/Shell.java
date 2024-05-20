@@ -27,8 +27,6 @@ import java.util.TreeSet;
  * The Shell class also handles various exceptions for incorrect inputs or operations.
  * It provides feedback messages for errors such as incorrect commands, invalid format, or file loading
  * issues.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class Shell {
 

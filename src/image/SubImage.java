@@ -6,8 +6,6 @@ import java.awt.*;
  * Represents a sub-image extracted from a larger image.
  * This class inherits from the Image class and adds functionality for calculating and retrieving the
  * brightness of the sub-image.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class SubImage extends Image {
 

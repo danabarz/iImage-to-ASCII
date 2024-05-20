@@ -3,8 +3,6 @@ package errors;
 /**
  * An exception representing an error related to output handling.
  * This exception is used to indicate errors that occur during output handling or formatting operations.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class OutputException extends Exception {
 

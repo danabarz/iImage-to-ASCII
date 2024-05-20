@@ -4,8 +4,6 @@ package errors;
  * An exception thrown when an error occurs during algorithm execution.
  * This exception is typically thrown when an algorithm encounters an unexpected condition or fails to execute
  * properly.
- *
- * @author Dana Bar Zakay and Rotem Aharoni
  */
 public class AlgorithmException extends Exception {
 
