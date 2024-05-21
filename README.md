@@ -16,8 +16,8 @@ This project is a software tool that converts image files to ASCII art. The soft
 ## Example
 
 <div style="display:flex;">
-    <img src="examples/cat.jpeg" alt="Cat Photo" style="width:250px; margin-right: 10px;">
-    <img src="examples/out.png" alt="Output Photo" style="width:250px;">
+    <img src="examples/cat.jpeg" alt="Cat Photo" style="width:350px; margin-right: 10px;">
+    <img src="examples/out.png" alt="Output Photo" style="width:350px;">
 </div>
 
 
