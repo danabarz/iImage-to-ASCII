@@ -2,21 +2,21 @@ package ascii_art;
 
 import java.util.Scanner;
 
-class 1KeyboardInput
+class KeyboardInput
 {
-    private static 1KeyboardInput keyboardInputObject = null;
+    private static KeyboardInput keyboardInputObject = null;
     private Scanner scanner;
     
-    private 1KeyboardInput()
+    private KeyboardInput()
     {
         this.scanner = new Scanner(System.in);
     }
 
-    public static 1KeyboardInput getObject()
+    public static KeyboardInput getObject()
     {
-        if(1KeyboardInput.keyboardInputObject == null)
+        if(KeyboardInput.keyboardInputObject == null)
         {
-            1KeyboardInput.keyboardInputObject = new 1KeyboardInput();
+            KeyboardInput.keyboardInputObject = new KeyboardInput();
         }
         return KeyboardInput.keyboardInputObject;
     }
